@@ -5,9 +5,7 @@
 <!-- <a href="https://wmustudent21.github.io/" target="_blank">
   <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
 </a> -->
-
-[[link](https://wmustudent21.github.io/)]([URL](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)){:target="_blank"}
-<!-- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/) -->
+[![https://wmustudent21.github.io/](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/)
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
