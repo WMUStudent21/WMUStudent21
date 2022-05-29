@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://wmustudent21.github.io/" align="center>
+  <a href="https://wmustudent21.github.io/">
     <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
   </a>
 </div>
