@@ -6,6 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="30"/>&nbsp; 
     I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
  </p>
+ 
 ---
 
 ### Technologies:
