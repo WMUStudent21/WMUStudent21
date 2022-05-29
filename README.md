@@ -1,15 +1,17 @@
 <h1 align="center">
-  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br> 
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br>
 </h1>
 
-<a href="https://wmustudent21.github.io/" align="center>
-  <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
-</a>
+<div align="center">
+  <a href="https://wmustudent21.github.io/" align="center>
+    <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
+  </a>
+</div>
 
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
-<a href="https://www.linkedin.com/in/michael-loh-9b76b4114/" target="_blank">
+<a href="https://www.linkedin.com/in/michael-loh-9b76b4114/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a> 
   <br> 
