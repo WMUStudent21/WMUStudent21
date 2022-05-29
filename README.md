@@ -5,7 +5,8 @@
 <!-- <a href="https://wmustudent21.github.io/" target="_blank">
   <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
 </a> -->
-[![https://wmustudent21.github.io/](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/)
+
+[![Easter Egg]("https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif")]("https://wmustudent21.github.io/")
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
