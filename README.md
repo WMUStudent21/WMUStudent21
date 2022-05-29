@@ -6,7 +6,7 @@
   
  <div align="center">
    <a href="https://wmustudent21.github.io/">
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+      <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif" width="600" height="300"/>
    </a>
  </div>
   
