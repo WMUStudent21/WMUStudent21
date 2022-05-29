@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif"/>
+### Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/>
 
 <!--
 **WMUStudent21/WMUStudent21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
