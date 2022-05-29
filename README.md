@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://wmustudent21.github.io/">
-    <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake-dark.svg"/>
+    <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg"/>
   </a>
 </div>
 
