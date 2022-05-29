@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br> 
   
- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)]([https://jhey.dev](https://wmustudent21.github.io/))
+ [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/)
   
 </h1>
   <p align="center">
