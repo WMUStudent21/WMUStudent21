@@ -1,14 +1,14 @@
 <h1 align="center">
   Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br>
 </h1>
-<!-- 
+
 <div align="center">
   <a href="https://wmustudent21.github.io/">
-    <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg"/>
+    <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg" title="Easter egg present."/>
   </a>
-</div> -->
+</div>
 
-[![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/)
+<!-- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/) -->
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
@@ -24,15 +24,15 @@
 
 ### Technologies:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="MS Azure" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostEaster egg absent.greSQL" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
 </div>
 <!--
 **WMUStudent21/WMUStudent21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
