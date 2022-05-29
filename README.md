@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/>
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/> <br> [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-loh-9b76b4114/)
 </h1>
-<p align="center">
-  I'm Michael, a CS undergrad. <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="30"/>&nbsp; 
-    I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
- </p>
+  <p align="center">
+    I'm Michael, a CS undergrad. <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="20"/>&nbsp; 
+      I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
+   </p>
  
 ---
 
@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original.svg" title="Zig" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" width="30" height="30"/>&nbsp;
-/div>
+</div>
 <!--
 **WMUStudent21/WMUStudent21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
