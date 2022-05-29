@@ -4,7 +4,7 @@
   
  <div align="center">
    <a href="https://wmustudent21.github.io/">
-      <img ref="https://wmustudent21.github.io/" src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
+      <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
    </a>
  </div>
   
@@ -12,7 +12,7 @@
   <p align="center">
     I'm Michael, a CS undergrad.&nbsp;
   <a href="https://www.linkedin.com/in/michael-loh-9b76b4114/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
   </a> <br> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="20"/>&nbsp; 
       I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
