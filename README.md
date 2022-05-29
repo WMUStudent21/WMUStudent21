@@ -1,7 +1,10 @@
 <h1 align="center">
   Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/>
 </h1>
-
+<p align="center">
+  I'm Michael, a CS undergrad. <br>
+  🔭 I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
+ </p>
 
 <!--
 **WMUStudent21/WMUStudent21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
