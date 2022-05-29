@@ -1,8 +1,15 @@
 <h1 align="center">
-  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/> <br> 
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br> 
   <a href="https://www.linkedin.com/in/michael-loh-9b76b4114/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+ <div align="center">
+   <a href="https://wmustudent21.github.io/">
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   </a>
+ </div>
+  
 </h1>
   <p align="center">
     I'm Michael, a CS undergrad. <br>
