@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br>
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" title="Easter egg absent." height="30"/> <br>
 </h1>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a> 
   <br> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="20"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Easter egg absent." alt="Python" height="20"/>&nbsp; 
     I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
 </p>
  
