@@ -7,6 +7,7 @@
     <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg"/>
   </a>
 </div> -->
+
 [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/)
 
 <p align="center">
