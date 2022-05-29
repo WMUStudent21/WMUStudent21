@@ -2,7 +2,12 @@
   Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br> 
 </h1>
 
-[![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/)
+<a href="https://wmustudent21.github.io/" target="_blank">
+  <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif"/>
+</a>
+
+
+<!-- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/ocean.gif)](https://wmustudent21.github.io/) -->
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
