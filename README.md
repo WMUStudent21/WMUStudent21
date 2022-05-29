@@ -1,6 +1,6 @@
-<div align="center">
-  # Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/>
-</div>
+<h1 align="center">
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/>
+</h1>
 
 
 <!--
