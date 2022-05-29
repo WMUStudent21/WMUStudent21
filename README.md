@@ -1,5 +1,8 @@
 <h1 align="center">
-  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/> <br> [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michael-loh-9b76b4114/)
+  Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="25"/> <br> 
+  <a href="https://www.linkedin.com/in/michael-loh-9b76b4114/">
+    <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </h1>
   <p align="center">
     I'm Michael, a CS undergrad. <br>
