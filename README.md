@@ -1,13 +1,13 @@
 <h1 align="center">
   Hi there <img src="https://github.com/WMUStudent21/WMUStudent21/blob/main/wave.gif" height="30"/> <br>
 </h1>
-
+<!-- 
 <div align="center">
   <a href="https://wmustudent21.github.io/">
     <img src="https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg"/>
   </a>
-</div>
-
+</div> -->
+[![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/)
 
 <p align="center">
   I'm Michael, a CS undergrad.&nbsp;
