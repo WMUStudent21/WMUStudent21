@@ -23,7 +23,7 @@
 ---
 
 ### Technologies:
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Easter egg absent." width="30" height="30"/>&nbsp;
