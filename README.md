@@ -11,13 +11,13 @@
 <!-- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/) -->
 
 <p align="center">
-  I'm Michael, a CS undergrad.&nbsp;
+  I'm Michael, a CS & Stats undergrad.&nbsp;
 <a href="https://www.linkedin.com/in/michael-loh-9b76b4114/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a> 
   <br> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Easter egg absent." alt="Python" height="20"/>&nbsp; 
-    I’m currently using NLP to discover promising magnetocaloric alloys and their structures with WMU's Mechanical & Aerospace Department.
+    I’m currently a Research Assistant for NSF REU Grant # 2320951. 
 </p>
  
 ---
