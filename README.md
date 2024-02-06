@@ -8,7 +8,7 @@
   </a>
 </div>
 
-[![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/)
+<!-- [![Easter Egg](https://github.com/WMUStudent21/WMUStudent21/blob/output/github-snake.svg)](https://wmustudent21.github.io/) -->
 
 <p align="center">
   I'm Michael, a CS & Stats undergrad.&nbsp;
