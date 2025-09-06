@@ -17,7 +17,7 @@
 </a> 
   <br> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Easter egg absent." alt="Python" height="20"/>&nbsp; 
-    I’m currently a Research Assistant for NSF REU Grant # 2320951. 
+    I’m currently a Quant Researcher Intern at Arch Capital. 
 </p>
  
 ---
